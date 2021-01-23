@@ -1,3 +1,3 @@
 # ChatBot
 MAK the ChatBot
-using Naive Bayes
+using Naive Bayes Method
